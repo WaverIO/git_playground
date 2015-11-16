@@ -1,2 +1,2 @@
 # git_playground
-trainingGit
+Hello,trainingGit
